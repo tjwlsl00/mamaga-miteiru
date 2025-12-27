@@ -1,13 +1,3 @@
-ゲーム再生URL
---
-[![ママが見ている](https://img.youtube.com/vi/iUKlUoFhH3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=iUKlUoFhH3c)
-
-*画像をクリックするとリンクに接続されます。<br>
-
-*エラーが生じた場合、以下のリンク先でお願い致します。<br>
-https://youtu.be/iUKlUoFhH3c
-
-
 タイトル：ママが見ている　／　開発期間：25年10月8日　～　25年10月20日
 --
 遊ぶのが好きな主人公（はるき）は週末、家でごろごろゲームを楽しんでいたところ 
@@ -17,3 +7,13 @@ https://youtu.be/iUKlUoFhH3c
 ゲームの流れ 
 --
 ママの外出まで3分という時間が与えられ、残った時間の間、汚れる家を掃除しながらママが怒らないようにするのがゲームの目標。  ゴミ、子犬は一定周期ごとに登場し、ゴミを発生させ、プレイヤーはそのゴミを収集して母親の怒りゲージが上がらないように防がなければならない。 3分を持てばいい息子。 耐えられなくてお母さんが怒ったらお尻を叩かれる。
+
+
+ゲーム再生URL
+--
+[![ママが見ている](https://img.youtube.com/vi/iUKlUoFhH3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=iUKlUoFhH3c)
+
+*画像をクリックするとリンクに接続されます。<br>
+
+*エラーが生じた場合、以下のリンク先でお願い致します。<br>
+https://youtu.be/iUKlUoFhH3c
