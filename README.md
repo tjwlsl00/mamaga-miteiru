@@ -1,6 +1,7 @@
 ゲーム再生URL
 --
 [![ママが見ている](https://img.youtube.com/vi/iUKlUoFhH3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=iUKlUoFhH3c)
+
 *画像をクリックするとリンクに接続されます。<br>
 
 *エラーが生じた場合、以下のリンク先でお願い致します。<br>
